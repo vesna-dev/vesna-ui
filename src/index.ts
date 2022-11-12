@@ -1,7 +1,3 @@
-class FooBar {
-  foo: string = "bar";
-}
+import { Button } from "./elements";
 
-const foobar = new FooBar();
-
-console.log("Hello, World!", foobar);
+Button.register();
