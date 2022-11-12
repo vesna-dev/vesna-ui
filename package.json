@@ -17,7 +17,7 @@
     "components"
   ],
   "author": "Irfan Kahvedzic",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": true,
   "dependencies": {},
   "peerDependencies": {},
